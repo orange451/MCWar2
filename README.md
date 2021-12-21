@@ -20,3 +20,14 @@ Use this plugin at your own risk. This was never tested in a production environm
 - Killstreak: Airstrike
 - Killstreak: Attack Dogs
 - Killstreak: Tactical Nuke
+- Perk: Juggernaut
+- Perk: Stopping Power
+- Perk: Sleight Of Hand
+- Perk: Speed
+- Perk: Marathon
+- Perk: Scavenger
+- Perk: Steady Aim
+- Perk: Martyrdom
+- Perk: Painkiller
+- Perk: Hardline
+- Perk: Flak Jacket
